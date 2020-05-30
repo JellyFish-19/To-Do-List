@@ -1,0 +1,39 @@
+C:\Users\Justinas\Desktop\C# testai\ND5 - ToDoList\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.exe
+C:\Users\Justinas\Desktop\C# testai\ND5 - ToDoList\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.deps.json
+C:\Users\Justinas\Desktop\C# testai\ND5 - ToDoList\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.json
+C:\Users\Justinas\Desktop\C# testai\ND5 - ToDoList\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.dev.json
+C:\Users\Justinas\Desktop\C# testai\ND5 - ToDoList\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.dll
+C:\Users\Justinas\Desktop\C# testai\ND5 - ToDoList\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.pdb
+C:\Users\Justinas\Desktop\C# testai\ND5 - ToDoList\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csprojAssemblyReference.cache
+C:\Users\Justinas\Desktop\C# testai\ND5 - ToDoList\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Justinas\Desktop\C# testai\ND5 - ToDoList\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfoInputs.cache
+C:\Users\Justinas\Desktop\C# testai\ND5 - ToDoList\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfo.cs
+C:\Users\Justinas\Desktop\C# testai\ND5 - ToDoList\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.dll
+C:\Users\Justinas\Desktop\C# testai\ND5 - ToDoList\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.pdb
+C:\Users\Justinas\Desktop\C# testai\ND5 - ToDoList\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.genruntimeconfig.cache
+C:\Users\Justinas\Desktop\ND5 - ToDoList\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.exe
+C:\Users\Justinas\Desktop\ND5 - ToDoList\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.deps.json
+C:\Users\Justinas\Desktop\ND5 - ToDoList\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.json
+C:\Users\Justinas\Desktop\ND5 - ToDoList\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.dev.json
+C:\Users\Justinas\Desktop\ND5 - ToDoList\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.dll
+C:\Users\Justinas\Desktop\ND5 - ToDoList\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.pdb
+C:\Users\Justinas\Desktop\ND5 - ToDoList\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csprojAssemblyReference.cache
+C:\Users\Justinas\Desktop\ND5 - ToDoList\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Justinas\Desktop\ND5 - ToDoList\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfoInputs.cache
+C:\Users\Justinas\Desktop\ND5 - ToDoList\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfo.cs
+C:\Users\Justinas\Desktop\ND5 - ToDoList\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.dll
+C:\Users\Justinas\Desktop\ND5 - ToDoList\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.pdb
+C:\Users\Justinas\Desktop\ND5 - ToDoList\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.genruntimeconfig.cache
+C:\Users\Justinas\Desktop\New folder\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.exe
+C:\Users\Justinas\Desktop\New folder\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.deps.json
+C:\Users\Justinas\Desktop\New folder\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.json
+C:\Users\Justinas\Desktop\New folder\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.dev.json
+C:\Users\Justinas\Desktop\New folder\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.dll
+C:\Users\Justinas\Desktop\New folder\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.pdb
+C:\Users\Justinas\Desktop\New folder\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csprojAssemblyReference.cache
+C:\Users\Justinas\Desktop\New folder\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Justinas\Desktop\New folder\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfoInputs.cache
+C:\Users\Justinas\Desktop\New folder\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfo.cs
+C:\Users\Justinas\Desktop\New folder\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.dll
+C:\Users\Justinas\Desktop\New folder\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.pdb
+C:\Users\Justinas\Desktop\New folder\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.genruntimeconfig.cache
